@@ -1,4 +1,4 @@
-Spotify API and Data
+Spotify API and Webscraping Data
 
 Team Members: Boneth, Madison, and Solongo
 
