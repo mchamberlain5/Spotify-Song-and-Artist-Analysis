@@ -1,5 +1,4 @@
-# Project-1
-## Project Title: Spotify API and Data
+Spotify API and Data
 
 Team Members: Boneth, Madison, and Solongo
 
