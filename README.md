@@ -24,7 +24,7 @@ Team Members: Boneth, Madison, and Solongo
  
  -playlists data
  
- ## Modules to use:
+ ## Modules used:
  
  -Scipy 
  
@@ -38,16 +38,5 @@ Team Members: Boneth, Madison, and Solongo
  
  -Spotipy
  
- ## Rough Break down of tasks: 
- 
- -Together: pull as much data from web, kaggle, Spotify API as we can
- 
-  -Boneth: create 2 visuals
-  
-  -Madison:Create 2 visuals
-  
-  -Solongo: create 2 visuals
-  
- -Together: Put together presentation
- 
+
   
